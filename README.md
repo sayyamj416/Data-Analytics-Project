@@ -1,24 +1,31 @@
 # Data Analytics Project
 
+This repository contains Tableau dashboards created using simulated datasets.
+
 ## Project 1: Equality Analysis Dashboard
+
 Tools Used: Tableau, Excel
-### Objective
+
+Objective:
 Analyze employee compensation equality scores and identify fairness across factories and job roles.
-### Dashboard Preview
-![Equality Dashboard](Equality Dashboard.png
 
-## Project 2: Machine Downtime Analysis
+Dataset:
+Simulated employee compensation dataset.
+
+## Project 2: Machine Downtime Analysis Dashboard
+
 Tools Used: Tableau
-### Objective
-Analyze machine downtime patterns and identify operational inefficiencies.
-### Dashboard Preview
-![Machine Downtime Dashboard](Machine DownTime Dashboard.png)
 
----
+Objective:
+Analyze machine downtime patterns and identify operational inefficiencies.
+
+Dataset:
+Manufacturing simulation dataset.
 
 ## Skills Demonstrated
-- Data Cleaning
+
 - Data Analysis
-- Tableau Dashboard Development
 - Data Visualization
+- Tableau Dashboard Development
 - Business Insights
+- Reporting
