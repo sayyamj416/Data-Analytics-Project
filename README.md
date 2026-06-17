@@ -8,7 +8,7 @@ Analyze employee compensation equality scores and identify fairness across facto
 ![Equality Dashboard](Equality Dashboard.png
 
 ## Project 2: Machine Downtime Analysis
-Tools Used: Tableau, Excel
+Tools Used: Tableau
 ### Objective
 Analyze machine downtime patterns and identify operational inefficiencies.
 ### Dashboard Preview
