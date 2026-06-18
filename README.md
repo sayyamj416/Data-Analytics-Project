@@ -30,7 +30,7 @@ Manufacturing simulation dataset.
 - Business Insights
 - Reporting
 
-## Loan Analysis Dashboard
+## Project 3: Loan Analysis Dashboard
 
 Tools Used:
 - Power BI
