@@ -29,3 +29,16 @@ Manufacturing simulation dataset.
 - Tableau Dashboard Development
 - Business Insights
 - Reporting
+
+## Loan Analysis Dashboard
+
+Tools Used:
+- Power BI
+- Excel
+
+Key Insights:
+- Total Loan Amount
+- Loan Status Distribution
+- Loan Amount by Purpose
+- Loan Amount by State
+- Default Risk Analysis
